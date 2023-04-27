@@ -2,7 +2,7 @@
 
 `2023-04-26`
 
-- fix(layout): up layout mix css level. [18e8157](https://github.com/ant-design/pro-components/commit/18e8157)
+- fix(layout): up layout mix css   level. [18e8157](https://github.com/ant-design/pro-components/commit/18e8157)
 
 ## @ant-design/pro-components@2.4.3
 
